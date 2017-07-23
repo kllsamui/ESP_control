@@ -19,8 +19,8 @@ const int DinPin = 12; // Digital pin to be read
 const long serdb = 115200;
 
 // set for STA MODE login ( IP from router )
-#define ssid  "kll-wlan"
-#define password  "WELOVEKOH-SAMUI"
+#define ssid  "mySSID"
+#define password  "myPassword"
 
 
 WiFiServer server(80);
