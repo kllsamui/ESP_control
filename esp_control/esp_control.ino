@@ -138,10 +138,6 @@ void loop() {
   s += (" _<a href=\"/DACUP\"\"><button>  UP </button></a>");  
   s += (" _<a href=\"/DACDN\"\"><button> DOWN </button></a>");  
   
-//  s += ("<span id=\"range\">0</span>");
-//  s += (" _<input type=\"range\" value=\"127\" min=\"0\" max=\"255\" onchange=\"showValue(this.value)\"/>");
-//  s += (" _<a href=\"/DAC\"\"><button> send </button></a>");
-//  s += ("<script type=\"text/javascript\"> function showValue(newValue) { document.getElementById(\"range\").innerHTML=newValue;} </script> "); 
   s += (" <br>");
 #endif
   
