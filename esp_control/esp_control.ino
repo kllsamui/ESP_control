@@ -25,8 +25,8 @@ IPAddress APsubnet(255, 255, 255, 0);
 IPAddress STAip(192,168,1,210);
 IPAddress STAgateway(192, 168, 1, 1);
 IPAddress STAsubnet(255, 255, 255, 0);
-#define STAssid  "kll-wlan"                // "mySSID"
-#define STApassword  "WELOVEKOH-SAMUI"     // "password"
+#define STAssid "mySSID"
+#define STApassword  "password"
 
 #endif
  
